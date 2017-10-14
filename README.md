@@ -1,4 +1,2 @@
-# TDD_empresariales
-- Camilo Perez Velez
-- Sandra Viviana Lodoño
-- Camilo Posada Angel
+# Test Empresariales
+- Sergio Andrés LLanos Garcia
